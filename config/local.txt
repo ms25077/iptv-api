@@ -1,6 +1,7 @@
 # 这是本地源列表，一行一个源，格式为：频道名称,接口地址
 # 支持设置白名单：接口后添加$!
 
+浙江卫视4K,http://z.b.bkpcp.top/m.php?id=zjws
 CCTV01综合,http://nn.7x9d.cn/mk.php?ip=119.55.86.82:8014&id=cctv1
 CCTV02财经,http://nn.7x9d.cn/mk.php?ip=119.55.86.82:8014&id=cctv2
 CCTV03综艺,http://nn.7x9d.cn/mk.php?ip=119.55.86.82:8014&id=cctv3
