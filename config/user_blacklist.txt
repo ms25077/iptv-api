@@ -5,3 +5,4 @@ http://171.125.90.120:6001
 http://116.237.37.244:8888
 http://j.x.bkpcp.top
 http://lxfile.lxxcb.cn/
+http://serv00.bkpcp.top/
