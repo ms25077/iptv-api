@@ -15,3 +15,4 @@ http://iptv.huuc.edu.cn
 http://php.jdshipin.com
 http://cdn9.163189.xyz/
 http://r.jdshipin.com/
+http://bp-livetytv.bestv.cn
