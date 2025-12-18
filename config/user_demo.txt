@@ -1,5 +1,7 @@
 📺超高清频道,#genre#
+纯享4K
 CCTV4K
+CCTV8K
 CCTV16 4K
 浙江卫视4K
 北京卫视4K
@@ -12,6 +14,8 @@ CCTV16 4K
 浙江卫视4K
 江苏卫视4K
 河北卫视4K
+爱上4K
+苏州4K
 
 📺央视频道,#genre#
 CCTV-1
