@@ -46,3 +46,4 @@ CCTV17农业农村,http://nn.7x9d.cn/mk.php?ip=119.55.86.82:8014&id=cctv17
 浙江卫视,http://nn.7x9d.cn/mk.php?ip=119.55.86.82:8014&id=zjws
 嘉佳卡通,http://nn.7x9d.cn/mk.php?ip=119.55.86.82:8014&id=live1049
 金鹰卡通,http://nn.7x9d.cn/mk.php?ip=119.55.86.82:8014&id=live1048
+Home Plus,https://homeplushls.wns.live/hls/stream.m3u8
