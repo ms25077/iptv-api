@@ -36,6 +36,12 @@ http://z.b.bkpcp.top/m.php?id=zjws
 #EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/浙江卫视4K.png" group-title="📺超高清频道",浙江卫视4K
 https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K%E5%8F%B0
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=&z=1151
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
+rtsp://123.147.113.180:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000425?AuthInfo=xxx&userid=&z=1151
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
 rtsp://123.147.113.180:554/04000001/01000000004000000000000000000425?AuthInfo=xxx&userid=
@@ -48,19 +54,7 @@ rtsp://123.147.113.180:554/04000001/01000000004000000000000000000426?AuthInfo=xx
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000426
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=&z=1151
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视4K.png" group-title="📺超高清频道",北京卫视4K
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
-#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=&z=1151
-#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000436
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
@@ -68,31 +62,37 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000436?AuthInfo=xx
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
 rtsp://123.147.113.180:554/04000001/01000000004000000000000000000436?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=&z=1151
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
+rtsp://123.147.113.180:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000232
+#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方卫视4K.png" group-title="📺超高清频道",东方卫视4K
 https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%864K%E5%8F%B0
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=&z=1151
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000432?AuthInfo=xxx&userid=&z=1151
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
 rtsp://123.147.113.180:554/04000001/01000000004000000000000000000432?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000432
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=&z=1151
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=&z=1151
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000221
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广东卫视4K.png" group-title="📺超高清频道",广东卫视4K
+rtsp://123.147.113.180:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000431?AuthInfo=xxx&userid=&z=1151
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
 rtsp://123.147.113.180:554/04000001/01000000004000000000000000000431?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000431
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=&z=1151
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
+rtsp://123.147.113.180:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/深圳卫视4K.png" group-title="📺超高清频道",深圳卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000226
 #EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4K.png" group-title="📺超高清频道",四川卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000441?AuthInfo=xxx&userid=&z=1151
 #EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/四川卫视4K.png" group-title="📺超高清频道",四川卫视4K
@@ -146,17 +146,17 @@ rtsp://123.147.113.180:554/04000001/01000000004000000000000000000440?AuthInfo=xx
 #EXTINF:-1 tvg-name="山东卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视4K.png" group-title="📺超高清频道",山东卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000440
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000438?AuthInfo=xxx&userid=&z=1151
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000438?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000438
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=&z=1151
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
 rtsp://123.147.113.180:554/04000001/01000000004000000000000000000225?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000225
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000438?AuthInfo=xxx&userid=&z=1151
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
+rtsp://123.147.113.180:554/04000001/01000000004000000000000000000438?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000438
 #EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视4K.png" group-title="📺超高清频道",江苏卫视4K
 https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%864K%E5%8F%B0
 #EXTINF:-1 tvg-name="河北4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北4K.png" group-title="📺超高清频道",河北4K
@@ -846,6 +846,12 @@ http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南卫视.png" group-title="📡卫视频道",湖南卫视
 http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=&z=1151
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+rtsp://123.147.113.180:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000425?AuthInfo=xxx&userid=&z=1151
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 rtsp://123.147.113.180:554/04000001/01000000004000000000000000000425?AuthInfo=xxx&userid=
@@ -857,12 +863,6 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000426?AuthInfo=xx
 rtsp://123.147.113.180:554/04000001/01000000004000000000000000000426?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000426
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=&z=1151
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000229
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="📡卫视频道",北京卫视
 http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖北卫视.png" group-title="📡卫视频道",湖北卫视
@@ -3385,6 +3385,8 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisd
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251023080139c026415ca4654e0cb51f36f8105eb6a1&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251023080139&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.83&SecurityKey=20251023080139&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=101f9c0a14d24dc78aa97137482db06c&ddCalcu=c160e012bf6d902c804a71341d7294adac87
 #EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
 http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=20251024080056953be86c14d64c758cd4dbf06a58c942&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251024080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.88&SecurityKey=20251024080056&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=d18ceaa4887dd90437843aedd252e8e7&ddCalcu=7de1e882ec62e05a2ad4d8e8a73d4d897034
+#EXTINF:-1 tvg-name="陕西体育休闲" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西体育休闲.png" group-title="☘️陕西频道",陕西体育休闲
+http://gslbmgsplive.miguvideo.com/migu/kailu/sxtyxx/51/20250804/index.m3u8?msisdn=2025102508005957060912be0d47f78a9e823b236e0022&mdspid=&spid=600572&netType=0&sid=5910022189&pid=2028597139&timestamp=20251025080059&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956909356&ParentNodeID=-99&assertID=5910022189&client_ip=106.13.250.90&SecurityKey=20251025080059&promotionId=&mvid=5900006712&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25d98077b85839680d0db7d4d6a823de&ddCalcu=e2d5e3d2296880a067d74bd875b8d309d608
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西影视.png" group-title="☘️陕西频道",陕西影视
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226360/index.m3u8
 #EXTINF:-1 tvg-name="陕西影视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西影视.png" group-title="☘️陕西频道",陕西影视
@@ -4464,10 +4466,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🌊港·澳·台",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
-http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
-http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://r.jdshipin.com/jUx8K
@@ -4475,6 +4473,10 @@ http://r.jdshipin.com/jUx8K
 http://api.kkitv.itv888.vip:8080/streams/qi0oiujn7hh/index.m3u8
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
 http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="🌊港·澳·台",明珠台
@@ -4603,6 +4605,8 @@ https://vx65267199.18cn.dpdns.org/48.m3u8
 https://hls-gateway.vpstv.net/streams/477081.m3u8
 #EXTINF:-1 tvg-name="纬来育乐" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
 https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来育乐.png" group-title="🌊港·澳·台",纬来育乐
+http://free.cnlive.club/channel/581c988d.m3u8?q=111.170.171.148
 #EXTINF:-1 tvg-name="J2" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🌊港·澳·台",J2
 http://api.kkitv.itv888.vip:8080/streams/48uxa7dlbga/index.m3u8
 #EXTINF:-1 tvg-name="J2" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/J2.png" group-title="🌊港·澳·台",J2
@@ -4663,6 +4667,8 @@ https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
 https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🌊港·澳·台",东森超视
 https://hls-gateway.vpstv.net/streams/476234.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🌊港·澳·台",东森超视
+https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🌊港·澳·台",东森电影
 https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 #EXTINF:-1 tvg-name="东森电影" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森电影.png" group-title="🌊港·澳·台",东森电影
@@ -4831,6 +4837,8 @@ http://live.catvod.com/smart.php?id=videolandmovie
 https://stream1.freetv.fun/wei-lai-dian-ying-3.m3u8
 #EXTINF:-1 tvg-name="纬来电影" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬电影频道",纬来电影
 http://php.666230.xyz/smt.php?id=videolandmovie
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="🎬电影频道",纬来电影
+https://stream1.freetv.fun/wei-lai-dian-ying-3.ctv
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬电影频道",靖天映画
 https://hls-gateway.vpstv.net/streams/476302.m3u8
 #EXTINF:-1 tvg-name="靖天映画" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天映画.png" group-title="🎬电影频道",靖天映画
@@ -4951,6 +4959,8 @@ http://pullpackage.alivecdn.com/live/kik9tNVo2R9KMDD687bFX3vtLMD4Lwg69y94g8XKH40
 http://live.catvod.com/smart.php?id=ettvwestern
 #EXTINF:-1 tvg-name="东森洋片" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
 http://php.666230.xyz/smt.php?id=ettvwestern
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森洋片.png" group-title="🎬电影频道",东森洋片
+https://smt.go-iptv.ggff.net/smart.php?id=ettvwestern&token=Goiptv
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
 https://stream1.freetv.fun/dong-sen-chao-shi-4.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
@@ -4969,6 +4979,8 @@ https://stream1.freetv.fun/dong-sen-chao-shi-2.ctv
 https://stream1.freetv.fun/dong-sen-chao-shi-6.ctv
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
 https://hls-gateway.vpstv.net/streams/476234.m3u8
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🎬电影频道",东森超视
+https://stream1.freetv.fun/dong-sen-chao-shi-2.m3u8
 #EXTINF:-1 tvg-name="咪咕直播2" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕直播2.png" group-title="🎥咪咕直播",咪咕直播2
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播3" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕直播3.png" group-title="🎥咪咕直播",咪咕直播3
@@ -6359,6 +6371,8 @@ url
 url
 #EXTINF:-1 tvg-name="内蒙少儿" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙少儿.png" group-title="content.no_result_channel_genre",内蒙少儿
 url
+#EXTINF:-1 tvg-name="内蒙文体" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙文体.png" group-title="content.no_result_channel_genre",内蒙文体
+url
 #EXTINF:-1 tvg-name="内蒙农牧" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/内蒙农牧.png" group-title="content.no_result_channel_genre",内蒙农牧
 url
 #EXTINF:-1 tvg-name="蒙语文化" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/蒙语文化.png" group-title="content.no_result_channel_genre",蒙语文化
@@ -6521,5 +6535,5 @@ url
 url
 #EXTINF:-1 tvg-name="音乐调频广播" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/音乐调频广播.png" group-title="content.no_result_channel_genre",音乐调频广播
 url
-#EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纯享4K.png" group-title="🕘️更新时间",2025-12-28 06:42:06
+#EXTINF:-1 tvg-name="纯享4K" tvg-logo="http://ghp.keleyaa.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纯享4K.png" group-title="🕘️更新时间",2025-12-28 18:44:33
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
